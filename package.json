@@ -1,0 +1,30 @@
+{
+  "name": "seeliebot",
+  "version": "1.0.0",
+  "description": "Discord Bot for The Wolfs Tail",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheWolfsTail/seeliebot.git"
+  },
+  "keywords": [
+    "genshin-impact",
+    "discord",
+    "bot"
+  ],
+  "author": "TheWolfsTailDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheWolfsTail/seeliebot/issues"
+  },
+  "homepage": "https://github.com/TheWolfsTail/seeliebot#readme",
+  "dependencies": {
+    "@discordjs/collection": "^1.3.0",
+    "axios": "^1.3.4",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
